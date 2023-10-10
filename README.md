@@ -24,3 +24,4 @@
 | 3 | Indexing & Slicing 📌✂️ | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)| 
 | 4_1 | IfStatement.ipynb | https://github.com/TrangSiunl/NLP_2023/blob/main/4_1_IfStatement.ipynb
 | 4_2 | ForStatement.ipynb | https://github.com/TrangSiunl/NLP_2023/blob/main/4_2_ForStatement.ipynb
+| 4_3 | tryExceptElse_Statement.ipynb | https://github.com/TrangSiunl/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb
